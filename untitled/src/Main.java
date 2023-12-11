@@ -49,6 +49,7 @@ public class Main {
                         6 - Sair\n""", nome);
                 escolhaPlana = Integer.parseInt(leia.nextLine());
 
+                
                 switch (escolhaPlana) {
                     case 1 -> {
                         while (true) {
